@@ -1,0 +1,219 @@
+body {
+	font-family: Georgia;
+	background-image: url(4seasons.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0;
+	padding:0;
+}
+
+#wrap {width: 80%;
+	margin: 0 auto;
+}
+
+body#home {
+	background-image: url(leaves changing color.jpg)
+}
+
+#home section {
+	background-image: url(whitebrick.jpg)
+}
+
+#home header {
+	background-color: #99948f;
+}
+
+#home nav {
+	background-color: #000080;
+	padding: 20px;
+	text-align: center;
+}
+
+#home h1 {
+	color: black;
+	text-align: center;	
+}
+
+body#autumn {
+	background-image: url(fall.jpg);
+	border: orange;
+}
+
+#autumn nav {
+	background-color: maroon;
+	padding: 20px;
+	text-align: center;
+
+}
+
+#autumn header {
+	background-color: #FFEED0;
+}
+#autumn h1 {
+	color: black;
+	text-align: center;
+}
+
+#autumn section {
+	background-color: #FFEED0;
+}
+body#winter  {
+	background-image: url(winter.jpg);
+}
+
+#winter nav {
+	background-color: #2D266C;
+	padding: 20px;
+	text-align: center;
+}
+
+#winter header {
+	background-color: #FCFEE9
+}
+
+#winter section {
+	background-color: #FCFEE9
+}
+
+#winter h1 {
+	text-align: center;
+}
+
+body#summer {
+	background-image: url(palmtrees.jpg);
+	background-size: 50%;
+	background-repeat: repeat;
+}
+
+#summer header {
+	background-color: #44d7ca
+}
+#summer nav {
+	background-color: fcc0c5;
+	padding: 20px;
+	text-align: center;
+
+}
+
+#summer h1 {
+	color: black;
+	text-align: center;
+}
+
+#summer section {
+	background-color: #44d7ca;
+}
+
+#summer footer {
+	color: black;
+}
+
+body#spring {
+	background-image: url(spring.jpg);
+}
+
+#spring header {
+	background-color: #efebe2
+}
+
+#spring nav {
+	background-color: #d0c3f1;
+	padding: 20px;
+	text-align: center;
+}
+
+#spring section {
+	background-color: #efebe2;
+}
+
+#spring h1 {
+	color: black;
+	text-align: center;
+}
+
+header img {width: 65%
+	
+}
+
+header {
+	background-color: #000000;
+	text-align: center;
+}
+#body nav {
+	background-image: linear-gradient(to bottom right, red, yellow,  skyblue);
+	padding: 20px;
+	text-align: center;
+	}
+
+nav li {
+	display:inline;
+}
+
+nav ul {margin:0;
+		padding:0;
+}
+
+nav a {
+	color:white;
+	padding: 20px;
+	margin-right: 10px;
+	font-family: 'copperplate gothic light';
+	font-style: capitalize;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: black;
+	text-decoration: underline;
+} 
+
+section {
+	background-color: white;
+	padding: 30px;
+	overflow: auto;
+	font-family: 'Gadugi';
+	font-size: 16px;
+}
+
+h1 {
+	font-family: 'yumaro'
+}
+
+footer {
+	background-color: transparent;
+	padding: 10px;
+	text-align: center;
+	color: white;
+}
+.home {
+	width: 30%;
+	float: right;
+}
+
+.officer {
+	width: 30%;
+	float: right;
+}
+	
+.winter {
+	width: 60%;
+	float: right;
+}	
+
+.spring {
+	width: 50%;
+	float: right;
+}
+
+.autumn {
+	width: 50%;
+	float: left;
+	padding: 10px;
+	margin: 10px;
+}
+
+.summer {
+	width: 60%;
+	float: right;
+}
