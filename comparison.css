@@ -1,0 +1,16 @@
+body {font-size: 40 px;
+		font-family: times new roman;
+background-image: linear-gradient(skyblue, lavender);		
+}
+
+p {
+	text-indent: 5%;
+	line-height: 2;
+	font-size: 16px;
+
+}
+
+h1, h2 {
+	text-align: center;
+}
+
