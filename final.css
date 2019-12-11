@@ -1,0 +1,293 @@
+body {
+	background-image: url(background.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0;
+	padding:0;
+}
+
+section {
+	text-align: left;
+}
+
+#wrap {width: 80%;
+	margin: 0 auto;
+}
+
+
+#home section {
+	background-image: url(texture.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: 'Gadugi';
+	font-size: 20px;
+}
+
+
+#home header {
+	background-color: transparent;
+}
+
+#home nav {
+	background-color: maroon;
+	padding: 20px;
+	text-align: center;
+}
+
+#home h1 {
+	color: black;
+	text-align: center;	
+}
+
+#home iframe {
+	width: 60%;
+		height: 60%;
+		float: left;
+		background-color: transparent
+}
+
+#contact nav {
+	background-color: maroon;
+	padding: 20px;
+	text-align: center;
+
+}
+
+#contact header {
+	background-color: transparent;
+}
+#contact h1 {
+	color: black;
+	text-align: center;
+}
+
+#contact section {
+	text-align: left;
+	background-color: #f2ddbf;
+}
+
+#contact iframe {
+		width: 60%;
+		height: 60%;
+		float: left;
+}
+
+body#winter  {
+	background-image: url(background.jpg);
+}
+
+#winter nav {
+	background-color: maroon;
+	padding: 20px;
+	text-align: center;
+}
+
+#winter header {
+	background-color: transparent;
+}
+
+#winter section {
+	background-color: #FCFEE9;
+	background-image: url(texture.jpg);
+	background-size: cover;
+}
+
+#winter h1 {
+	text-align: center;
+}
+
+
+#summer header {
+	background-color: transparent;
+}
+#summer nav {
+	background-color: maroon;
+	padding: 20px;
+	text-align: center;
+
+}
+
+#summer h1 {
+	color: black;
+	text-align: center;
+}
+
+#summer section {
+	background-color: #f2ddbf;
+	background-image: url(texture.jpg);
+	background-size: cover;
+}
+
+#summer footer {
+	color: black;
+}
+
+#summer iframe {
+	text-align: center;
+}
+
+body#spring {background-size: cover;}
+
+
+#spring header {
+	background-color: transparent
+}
+
+#spring nav {
+	background-color: maroon;
+	padding: 20px;
+	text-align: center;
+}
+
+#spring section {
+	background-image: url(texture.jpg);
+	background-size: cover;
+}
+
+#spring h1 {
+	color: black;
+	text-align: center;
+}
+
+header img {
+	width: 65%
+	
+}
+
+header {
+	background-color: #000000;
+	text-align: center;
+}
+#body nav {
+	background-color: maroon;
+	padding: 20px;
+	text-align: center;
+	}
+
+nav li {
+	display:inline;
+}
+
+nav ul {margin:0;
+		padding:0;
+}
+
+nav a {
+	color:white;
+	padding: 20px;
+	margin-right: 10px;
+	font-family: 'GatsbyFLF';
+	font-style: capitalize, bold;
+	font-size: 40px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: black;
+	text-decoration: underline;
+} 
+
+section {
+	background-color: white;
+	padding: 30px;
+	overflow: auto;
+	font-family: 'Gadugi';
+	font-size: 16px;
+}
+
+h1 {
+	font-family: 'gatsby inline';
+	font-size: 30px;
+}
+
+footer {
+	background-color: transparent;
+	padding: 10px;
+	text-align: center;
+	color: white;
+}
+
+hr {
+width: 100%;
+background-color: red;
+margin-right: auto;
+margin-left: auto;
+margin-top: auto;
+margin-bottom: auto;
+border-width: 1px;
+border-color: black;
+}
+
+#form contact {
+	text-align:left;
+}
+
+.nivoSlider {
+	width: 40%;
+	position: relative;
+}
+
+.home {
+	width: 50%;
+	float: right;
+	padding: 5px;
+	
+}
+
+.officer {
+	width: 30%;
+	float: right;
+}
+
+.contact {
+	width: 40%;
+	float: right;
+}
+
+.winter {
+	width: 40%;
+	float: right;
+	padding: 5px;
+}	
+
+.spring {
+	width: 50%;
+	float: right;
+}
+
+.autumn {
+	width: 50%;
+	float: left;
+	padding: 10px;
+	margin: 10px;
+}
+
+.summer {
+	width: 60%;
+	float: right;
+}
+
+.railroad {
+	width: 40%;
+	float: left;
+	padding: 10px;
+	margin: 10px;
+}
+
+.middle {
+	margin: 0 auto;
+	width: 100%;
+	text-align: center;
+}
+
+.small {
+	margin: 0 auto;
+	width: 50%;
+	text-align: center;
+}
+
+.header {
+	width: 100%;
+	padding: 0;
+	margin: 0 auto;
+}
